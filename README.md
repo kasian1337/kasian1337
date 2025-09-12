@@ -1,4 +1,4 @@
-Hi there! I'm [Your Name]
+Hi there! I'm Shaxriyor.
 🎯 About Me
 
 💻 Currently learning: Git, HTML, CSS, JavaScript
